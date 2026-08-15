@@ -8,7 +8,7 @@ The project uses **Power Query** for data cleaning and transformation and Power 
 
 ## 📊 Dashboard Preview
 
-![Blinkit Sales Dashboard](dashboard.png)
+![Blinkit Sales Dashboard](dashboard/dashboard.png)
 
 ---
 
